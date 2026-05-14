@@ -78,11 +78,3 @@ The project includes a comprehensive validation program hardcoded into the simul
 * Addition of `J` (Jump) and `JAL` (Jump and Link) instructions.
 * Implementation of L1 Cache simulation.
 
-## 👨‍💻 Author
-**Berchisan Bogdan-Aurel**
-* Group 30434
-* Technical University of Cluj-Napoca
-* Date: January 14, 2026
-
----
-*This project was developed for the Computer Architecture course.*
